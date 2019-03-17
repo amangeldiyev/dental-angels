@@ -1018,9 +1018,9 @@
                     <div class="ct-header__logo-nav">
                         <a href="/" rel="home" class="ct-logo">
                             <img class="ct-logo__image ct-logo__image--sticky" src="/images/header-logo.png"
-                                 srcset="http://demo.curlythemes.com/dentist-wp/wp-content/uploads/sites/22/2017/08/logo_dentist_sticky-3.png 2x"
+                                 srcset="/images/header-logo.png"
                                  alt="Dentist WP">
-                            <img class="ct-logo__image" src="/images/header-logo.png" srcset="http://demo.curlythemes.com/dentist-wp/wp-content/uploads/sites/22/2017/08/logo_dentist_sticky-2-2.png 2x"
+                            <img class="ct-logo__image" src="/images/header-logo.png" srcset="/images/header-logo.png"
                                  alt="Dentist WP">
                         </a>
                         <label id="ct-main-nav__toggle-navigation" for="ct-main-nav__toggle-navigation-main">Menu
